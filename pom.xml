@@ -28,7 +28,6 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
-
     <build>
         <!-- 配置插件 -->
         <plugins>
